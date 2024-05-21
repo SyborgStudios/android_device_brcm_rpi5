@@ -18,7 +18,8 @@ PRODUCT_PACKAGES += \
     SettingsRpiOverlay \
     SettingsProviderRpiOverlay \
     SystemUIRpiOverlay \
-    WifiRpiOverlay
+    WifiRpiOverlay \
+    Rockebilly
 
 # Permissions
 PRODUCT_COPY_FILES += \
